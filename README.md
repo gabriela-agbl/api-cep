@@ -1,5 +1,5 @@
 # api-cep
-Uma API consumida do site Via cep
+Uma API consumida do site Via cep feito a partir de um template do meu professor
 
 ## Imagem
 
