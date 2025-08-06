@@ -1,5 +1,5 @@
-# api-cep
-Uma API consumida do site Via cep feito a partir de um template do meu professor
+# API CEP
+API de consulta de CEP consumida do site ViaCEP, desenvolvida a partir de um template fornecido pelo meu professor..
 
 ## Imagem
 
