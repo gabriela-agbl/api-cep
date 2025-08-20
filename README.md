@@ -1,6 +1,7 @@
-# API de CEP
-API de consulta de CEP consumida do site ViaCEP, desenvolvida a partir de um template fornecido pelo meu professor..
-
+<div align=center>
+  <h1>API de CEP</h1>
+  API de consulta de CEP consumida do site ViaCEP, desenvolvida a partir de um template fornecido pelo meu professor..
+</div>
 <div align=center>
 <h2>Imagem</h2>
 
