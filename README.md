@@ -1,4 +1,4 @@
-# API CEP
+# API de CEP
 API de consulta de CEP consumida do site ViaCEP, desenvolvida a partir de um template fornecido pelo meu professor..
 
 <div align=center>
